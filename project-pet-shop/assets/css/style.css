@@ -1,0 +1,162 @@
+.section_banner {
+    width: 100%;
+    height: auto;
+    padding: 120px 80px;
+    background-image: url('/assets/img/banner-topo.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.container_logo {
+    width: 250px;
+    color: #3c184e;
+}
+
+.container_logo img {
+    width: 30px;
+    margin: 0 5px 0 0;
+}
+
+.container_logo .name_pet_shop {
+    font-size: 2.188rem;
+    margin: 0 0 5px 0;
+}
+
+.container_logo .slogan_pet_shop {
+    font-size: 0.875rem;
+    text-align: center;
+    margin: 0;
+}
+
+.container_title {
+    max-width: 64rem;
+    margin: 70px auto 0 auto ;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+}
+
+.container_title h1 {
+    font-size: 3.75rem;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.container_title p {
+    background-color: #3c184e;
+    margin: 0 auto 0 auto;
+    width: 12.5rem;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.container_title p a {
+    color: #ffff;
+}
+
+.container_title p img {
+    width: 20px;
+}
+
+.section_services {
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.container_list {
+    width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+
+.container_list li {
+    font-size: 1.25rem;
+    margin: 0 0 20px 0;
+}
+
+.container_img_cards {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.container_img_cards img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.section_social_media {
+    width: 100%;
+    background-color: #3c184e;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.section_social_media p {
+    width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 2.5rem;
+    color: #fff;
+    text-align: center;
+}
+
+.container_social_media_links {
+    margin: 0 20px;
+}
+
+.container_social_media_links img {
+    width: 50px;
+    height: 50px;
+    display: inline;
+}
+
+.section_brands {
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.container_brands {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container_brands img {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+
+.section_our_location {
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.section_our_location p {
+    font-size: 1.25rem;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px;
+}
+
+.section_our_location iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.footer {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+
+.footer p, a {
+    color: #fff;
+    font-size: 0.75rem;
+    text-align: center;
+}
